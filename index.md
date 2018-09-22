@@ -1,16 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my personal page
 
-You can use the [editor on GitHub](https://github.com/maciej-zywno/maciej-zywno.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+I am a founder at [HTD](https://htdevelopers.com) - the healthcare innovation consultancy specializing in software design & development. My personal mission is to enable others to live happy life by creating opportunities to do meaningful work and 
+achieve their full potential both inside and outside of the organization. 
