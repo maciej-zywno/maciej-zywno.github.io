@@ -4,3 +4,5 @@ I am a founder at [HTD](https://htdevelopers.com) and this is my personal missio
 
 _Enable others to live happy life by creating opportunities to do meaningful work and 
 achieve their full potential both inside and outside of the organization._
+
+I am doing this by building a healthy organization centered around people growth and managed in a compassionate way.
