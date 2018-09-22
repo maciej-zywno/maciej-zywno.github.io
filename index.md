@@ -1,4 +1,4 @@
-### Welcome to my personal page :wave:
+### Welcome to my personal page
 
 I am a founder at [HTD](https://htdevelopers.com) and this is my personal mission:
 
